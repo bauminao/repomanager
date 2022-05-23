@@ -5,12 +5,12 @@ My little helper to maintain my own repository.
 
 # Installation
 
-`git clone<thisRepo>` 
+`git clone https://github.com/bauminao/repomanager.git`
 
 # Setup and Initialisation
 
 Clone the Repos you want to have inside your repo wihtin farming
-Just take the Repo-Link from (AUR)[https://aur.archlinux.org] and do a `git clone <RepoLink>` inside farming directory. 
+Just take the Repo-Link from [AUR](https://aur.archlinux.org) and do a `git clone <RepoLink>` inside farming directory. 
 
 There are two lists:
 * ignore 
